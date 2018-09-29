@@ -8,7 +8,7 @@ This repository is used to record the road of becoming a web front-end developer
 [javascript笔记](https://github.com/shaoyuyun/javascript-note)  
 ## 4. 学习css3知识
 [css3笔记](https://github.com/shaoyuyun/css3-note)  
-## 5. 学习javascript进阶知识
+## 5. 学习javascript高级知识
 [javascript进阶笔记](https://github.com/shaoyuyun/javascript-advanced-note)  
 ## 6. 学习html5知识
 [html5笔记](https://github.com/shaoyuyun/html5-note)  
