@@ -1,5 +1,7 @@
 # become-web-front-end-developer
 This repository is used to record the road of becoming a web front-end developer.
+## 0. 学习cs知识
+[cs笔记](https://github.com/CyC2018/CS-Notes)  
 ## 1. 学习html基础知识
 [html笔记](https://github.com/shaoyuyun/html-note)  
 ## 2. 学习css基础知识
