@@ -16,4 +16,6 @@ This repository is used to record the road of becoming a web front-end developer
 [html5笔记](https://github.com/shaoyuyun/html5-note)  
 ## 8. 学习ajax知识
 [ajax笔记](https://github.com/shaoyuyun/ajax-note)  
+## 9. 学习es6知识
+[es6笔记](https://github.com/shaoyuyun/es6-note)  
 ## 未完待续...
