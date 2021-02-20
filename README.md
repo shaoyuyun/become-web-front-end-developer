@@ -14,8 +14,8 @@ This repository is used to record the road of becoming a web front-end developer
 [dom笔记](https://github.com/shaoyuyun/dom-note)  
 ## 6. 学习javascript高级知识
 [javascript进阶笔记](https://github.com/shaoyuyun/javascript-advanced-note)  
-## 7. 学习html5知识
-[html5笔记](https://github.com/shaoyuyun/html5-note)  
+## 7. 学习kernel知识
+[kernel笔记](https://github.com/shaoyuyun/kernel-note)  
 ## 8. 学习ajax知识
 [ajax笔记](https://github.com/shaoyuyun/ajax-note)  
 ## 9. 学习es6知识
